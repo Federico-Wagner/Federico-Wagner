@@ -1,24 +1,24 @@
 ## Hi there I'm Federico Wagner 👋
 
-Actualmente estoy desarrollando habilidades de desarrollo Web, me interesa en desarrollo nativo de aplicaciones y el desarrollo lado backend.
-Mi formacion academica formal es de Ingeniero mecanico, egresado de la UTN (frba)
+I am currently developing Web development skills. I am also interested in native application development and backend side development.
+My formal academic training is Mechanical Engineering, graduated from the UTN (frba)
 
-###  Los lenguajes de programacion que domino son:
+###  My main programming languages are:
   Javascript , Python , C++
   
-###  Los Frameworks y librerias que manejo son:
+###  The frameworks and libraries that I use are:
   NodeJs, Express, React, Django, Salenium
   
-  ### Mis principales proyectos que te invito a ver son:
+  ### My main projects that I invite you to see:
   
  - Hardstore E-commerce:
   https://github.com/Federico-Wagner/HardStore-Ecomerce
   
 - Web automation y scrapers:
   https://github.com/Federico-Wagner/Web-Scraping-Projects
-  Dentro encontraras dos proyectos:
-  1- Web aoutomation & Web scraper de la pagina de Carrefour esportara todos los resultados en un archivo .csv
-  2- Web aoutomation & Web scraper de multiples perfiles de Instagram
+  Inside you will find:
+  1- Web aoutomation & Web scraper of Carrefour Web page
+  2- Web aoutomation & Web scraper of multiple profiles of Instagram
   
 
 <!--
