@@ -1,4 +1,11 @@
 ### Hi there I'm Federico Wagner 👋
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
 
 Actualmente estoy desarrollando habilidades de desarrollo Web, me interesa en desarrollo nativo de aplicaciones y el desarrollo lado backend.
 Mi formacion academica formal es de Ingeniero mecanico, egresado de la UTN (frba)
