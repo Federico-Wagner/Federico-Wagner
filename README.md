@@ -11,10 +11,10 @@ Mi formacion academica formal es de Ingeniero mecanico, egresado de la UTN (frba
   
   ### Mis principales proyectos que te invito a ver son:
   
-  ##### - Hardstore E-commerce:
+ - Hardstore E-commerce:
   https://github.com/Federico-Wagner/HardStore-Ecomerce
   
-  #### - Web automation y scrapers:
+- Web automation y scrapers:
   https://github.com/Federico-Wagner/Web-Scraping-Projects
   Dentro encontraras dos proyectos:
   1- Web aoutomation & Web scraper de la pagina de Carrefour esportara todos los resultados en un archivo .csv
