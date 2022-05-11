@@ -3,7 +3,7 @@
 Actualmente estoy desarrollando habilidades de desarrollo Web, me interesa en desarrollo nativo de aplicaciones y el desarrollo lado backend.
 Mi formacion academica formal es de Ingeniero mecanico, egresado de la UTN (frba)
 
-#### ⋅⋅* Los lenguajes de programacion que domino son:
+#### ..* Los lenguajes de programacion que domino son:
   Javascript , Python , C++
   
 #### ⋅⋅*  Los Frameworks y librerias que manejo son:
