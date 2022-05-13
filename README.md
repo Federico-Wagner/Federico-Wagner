@@ -15,9 +15,9 @@ My formal academic training is Mechanical Engineering, graduated from the UTN (f
 
 
 - Web automation y scrapers:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Web-Scraping-Projects" >Link to repository </a>
-  Inside you will find:
+  <p>Inside you will find:
   1- Web aoutomation & Web scraper of Carrefour Web page
-  2- Web aoutomation & Web scraper of multiple profiles of Instagram
+  2- Web aoutomation & Web scraper of multiple profiles of Instagram</p>
   
 
 <!--
