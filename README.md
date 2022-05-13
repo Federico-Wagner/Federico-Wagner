@@ -11,7 +11,7 @@ My formal academic training is Mechanical Engineering, graduated from the UTN (f
   
   ### My main projects that I invite you to see:
   
- - Hardstore E-commerce:
+- Hardstore E-commerce:
   <p><a href="https://github.com/Federico-Wagner/HardStore-Ecomerce" >Link to repository </a></p>
 
 - Web automation y scrapers:
