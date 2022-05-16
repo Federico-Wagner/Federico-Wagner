@@ -1,7 +1,8 @@
 ## Hi there I'm Federico Wagner 👋
 
 I am currently developing Web development skills. I am also interested in native application development and backend side development.
-My formal academic training is Mechanical Engineering, graduated from the UTN (frba)
+
+- Mechanical Engineering, graduated from the UTN (frba)
 
 ###  My main programming languages are:
   Javascript , Python , C++
