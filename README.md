@@ -5,10 +5,10 @@ I am currently developing Web development skills. I am also interested in native
 - Mechanical Engineering, graduated from the UTN (frba)
 
 ###  My main programming languages are:
-  Java, Javascript , Python , C++
+  Java, C++, Python, JavaScript
   
 ###  The frameworks and libraries that I use are:
-  Spring Boot, Angular, NodeJs, Express, React, Django, Salenium
+  Spring Boot, Angular, NodeJs, Express, React, Django, Salenium, KivyMD
   
   ### My main projects that I invite you to see:
   
