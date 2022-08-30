@@ -12,14 +12,16 @@ I am currently developing Web development skills. I am also interested in native
   
   ### My main projects that I invite you to see:
   
-- Barclays Web-App (Angular+Spring):  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/AcademIT-ANGULAR-SPRINGBOOT" >Link to repository </a>
+- Barclays Web-App (Angular + Spring):  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/AcademIT-ANGULAR-SPRINGBOOT" >Link to repository </a>
   
-- Hardstore E-commerce (NodeJS): :heavy_check_mark: <a href="https://github.com/Federico-Wagner/HardStore-Ecomerce" >Link to repository </a>
+- Hardstore E-commerce (NodeJS + React): :heavy_check_mark: <a href="https://github.com/Federico-Wagner/HardStore-Ecomerce" >Link to repository </a>
 
 - Web automation y scrapers (Selenium):  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Web-Scraping-Projects" >Link to repository </a>
   <p>Inside you will find:
   1- Web aoutomation & Web scraper of Carrefour Web page
   2- Web aoutomation & Web scraper of multiple profiles of Instagram</p>
+  
+- Android App Binary to decimal (KivyMD + Python):  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android_App-Python_KivyMD" >Link to repository </a>
   
 
 <!--
