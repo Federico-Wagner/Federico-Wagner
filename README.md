@@ -14,7 +14,7 @@ I am currently developing Web development skills. I am also interested in native
   
   
   
-- Android App<b>(Kotlin + Jetpack Compose)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android-Audio_App-Jetpack_Compose">Link to repository </a>
+- <b>Android App</b> Audio - Store, Play & Share <b>(Kotlin + Jetpack Compose)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android-Audio_App-Jetpack_Compose">Link to repository </a>
   
 - Barclays Web-App <b>(Angular + Spring)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/AcademIT-ANGULAR-SPRINGBOOT" >Link to repository </a>
   
