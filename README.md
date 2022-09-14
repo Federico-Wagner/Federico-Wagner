@@ -21,6 +21,7 @@ I am currently developing Web development skills. I am also interested in native
 - <b>Android App</b> Binary to decimal <b>(KivyMD + Python)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android_App-Python_KivyMD" >Link to repository </a>
 
 
+<br>
 <p>* Inside you will find:</p>
 <p>1- Web aoutomation & Web scraper of Carrefour Web page</p>
 <p>2- Web aoutomation & Web scraper of multiple profiles of Instagram</p>
