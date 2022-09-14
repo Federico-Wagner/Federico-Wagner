@@ -12,6 +12,10 @@ I am currently developing Web development skills. I am also interested in native
   
   ### My main projects that I invite you to see:
   
+  
+  
+- Android App<b>(Kotlin + Jetpack Compose)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android-Audio_App-Jetpack_Compose">Link to repository </a>
+  
 - Barclays Web-App <b>(Angular + Spring)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/AcademIT-ANGULAR-SPRINGBOOT" >Link to repository </a>
   
 - Hardstore E-commerce <b>(NodeJS + React)</b>: :heavy_check_mark: <a href="https://github.com/Federico-Wagner/HardStore-Ecomerce" >Link to repository </a>
