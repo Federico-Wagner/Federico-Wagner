@@ -16,7 +16,7 @@ I am currently developing Web development skills. I am also interested in native
   
 - Hardstore E-commerce <b>(NodeJS + React)</b>: :heavy_check_mark: <a href="https://github.com/Federico-Wagner/HardStore-Ecomerce" >Link to repository </a>
 
-- Web automation y scrapers <b>(Selenium)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Web-Scraping-Projects" >Link to repository </a> <p> (*)</p>
+- Web automation y scrapers <b>(Selenium)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Web-Scraping-Projects" >Link to repository </a>     (*)
   
 - <b>Android App</b> Binary to decimal <b>(KivyMD + Python)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android_App-Python_KivyMD" >Link to repository </a>
 
