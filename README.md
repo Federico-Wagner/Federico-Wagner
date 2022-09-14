@@ -1,6 +1,6 @@
 ## Hi there I'm Federico Wagner 👋
 
-I am currently developing Web development skills. I am also interested in native application development and backend side development.
+I am currently developing Web and Android development skills. I am also interested in native application development and backend side development.
 
 - Mechanical Engineering, graduated from the UTN (frba)
 
