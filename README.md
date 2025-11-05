@@ -8,7 +8,7 @@ This project represents my path toward becoming a **Senior Backend Engineer**, c
 ---
 
 ### 🧩 Main Tech Stack
-**Languages:** Java · Kotlin · Golang (Go) · Python · JavaScript · TypeScript
+**Languages:** Java · Kotlin · Golang (Go) · Python · JavaScript · TypeScript  
 **Frameworks & Libraries:** Spring Boot · Angular · JUnit · Jetpack Compose · Node.js · Express · React  
 **DevOps & Cloud:** Docker · Docker Compose · Kubernetes · GitHub Actions  
 **Observability & Monitoring:** Micrometer · Prometheus · Loki · Grafana · Fluent Bit  
