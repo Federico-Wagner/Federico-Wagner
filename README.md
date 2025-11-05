@@ -49,5 +49,4 @@ Automation scripts for data extraction and web interactions.
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/federico-wagner/)
-- 💻 [GitHub](https://github.com/Federico-Wagner)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/federicowagner1994)
