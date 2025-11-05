@@ -1,47 +1,53 @@
-## Hi there I'm Federico Wagner 👋
+## Hi there, I'm Federico Wagner 👋  
 
-I am currently developing Web and Android development skills. I am also interested in native application development and backend side development.
+I'm a **Backend Developer**, passionate about building scalable, secure, and well-structured applications.  
 
-- Mechanical Engineering, graduated from the UTN (frba)
+Currently, I'm leading the design and implementation of a **Microservices Architecture Project** — a Virtual Wallet platform built with **Spring Boot, Docker, Loki, Fluent Bit, Grafana** — focused on mastering **observability, distributed tracing, security, and CI/CD pipelines**.  
+This project represents my path toward becoming a **Senior Backend Engineer**, combining my technical curiosity with solid engineering principles.
 
-###  My main programming languages are:
-  Java, Kotlin TypeScript, C++, Python, JavaScript
-  
-###  The frameworks and libraries that I use are:
-  Spring Boot, Angular, Junit, Jetpack Compose(Android), NodeJs, Express, React, Django, Salenium, KivyMD
-  
-  ### My main projects that I invite you to see:
-  
-  
-  
-- <b>Android App</b> "Audio - Store, Play & Share" <b>(Kotlin + Jetpack Compose)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android-Audio_App-Jetpack_Compose">Link to repository </a>
-  
-- "Barclays Web-App" <b>(Angular + Spring)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/AcademIT-ANGULAR-SPRINGBOOT" >Link to repository </a>
-  
-- "Hardstore E-commerce" <b>(NodeJS + React)</b>: :heavy_check_mark: <a href="https://github.com/Federico-Wagner/HardStore-Ecomerce" >Link to repository </a>
+---
 
-- "Web automation y scrapers" <b>(Selenium + Python)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Web-Scraping-Projects" >Link to repository </a>   *
-  
-- <b>Android App</b> "Binary to decimal" <b>(KivyMD + Python)</b>:  :heavy_check_mark: <a href="https://github.com/Federico-Wagner/Android_App-Python_KivyMD" >Link to repository </a>
+### 🧩 Main Tech Stack
+**Languages:** Java · Kotlin · Golang (Go) · Python · JavaScript · TypeScript
+**Frameworks & Libraries:** Spring Boot · Angular · JUnit · Jetpack Compose · Node.js · Express · React  
+**DevOps & Cloud:** Docker · Docker Compose · Kubernetes · GitHub Actions  
+**Observability & Monitoring:** Micrometer · Prometheus · Loki · Grafana · Fluent Bit  
 
+---
 
-<br>
-<p>* Inside you will find:</p>
-<p>1- Web aoutomation & Web scraper of Carrefour Web page</p>
-<p>2- Web aoutomation & Web scraper of multiple profiles of Instagram</p>
-  
+### 💼 Featured Projects
 
-<!--
-**Federico-Wagner/Federico-Wagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🏦 **Virtual Wallet - Microservices Architecture (Spring Boot + Angular + Loki + Fluent Bit + Grafana)**
+A distributed financial system built around **microservices orchestration**, **JWT-based authentication**, and **centralized observability**.  
+Each service is fully containerized and integrated into a **log aggregation pipeline (Loki + Fluent Bit)** for structured logging and real-time monitoring.  
+🔗 *Coming soon: public repository and documentation.*
 
-Here are some ideas to get you started:
+#### 🎧 **Android App — Audio: Store, Play & Share** *(Kotlin + Jetpack Compose)*  
+Personal audio manager and sharing app.  
+👉 [View repository](https://github.com/Federico-Wagner/Android-Audio_App-Jetpack_Compose)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💳 **Barclays Web-App** *(Angular + Spring Boot)*  
+Web application simulating user registration and account management for an online banking platform.  
+👉 [View repository](https://github.com/Federico-Wagner/AcademIT-ANGULAR-SPRINGBOOT)
+
+#### 🛒 **Hardstore E-commerce** *(NodeJS + React)*  
+E-commerce web app featuring cart management, product filtering, and REST API integration.  
+👉 [View repository](https://github.com/Federico-Wagner/HardStore-Ecomerce)
+
+#### 🤖 **Web Automation & Scrapers** *(Python + Selenium)*  
+Automation scripts for data extraction and web interactions.  
+👉 [View repository](https://github.com/Federico-Wagner/Web-Scraping-Projects)
+
+---
+
+### 🎯 About Me
+🎓 Mechanical Engineer (UTN - FRBA) turned Software Developer — I apply analytical thinking and problem-solving from engineering into software design.  
+💡 I enjoy working on **architecture, performance optimization**, and **clean code principles**.  
+🌱 Constantly learning and building towards **backend excellence**, with strong interest in **microservices, distributed systems**, and **DevOps practices**.  
+⚙️ Currently focusing on **improving logging, monitoring, and orchestration** across multi-service environments.
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/federico-wagner/)
+- 💻 [GitHub](https://github.com/Federico-Wagner)  
